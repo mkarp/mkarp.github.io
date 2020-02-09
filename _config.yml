@@ -1,0 +1,6 @@
+name: Misha Karpenko
+exclude: ['README.md', 'CNAME']
+encoding: utf-8
+permalink: /:title
+url: https://mkarp.co
+markdown: kramdown
