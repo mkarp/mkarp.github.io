@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.8"
-gem "kramdown", "~> 1.17"
+gem "jekyll", "~> 4.1.1"
+gem "kramdown", "~> 2.3.0"
